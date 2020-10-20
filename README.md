@@ -1,5 +1,7 @@
 # Webpack Config Screencast
 
+Link to screecast: https://www.youtube.com/watch?v=guAJfZKiC5c&list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM&index=1
+
 ## 1. Video about webpack
 
 1.	npm init
