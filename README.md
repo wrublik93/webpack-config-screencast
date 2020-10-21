@@ -22,3 +22,12 @@ Link to screecast: https://www.youtube.com/watch?v=guAJfZKiC5c&list=PLOQDek48BpZ
 16.	write **command:** npx webpack --config webpack.config.js
 17.	add script
 
+## 2. Video about webpack files, styles, images, fonts and other
+
+1.	change name **main.js** => **bundle.js** (index.html and webpack.config.js)
+2.	npm install --save-dev style-loader css-loader (style-loader – подключает стили на страницу, css-loader – обрабатывает import и url)
+3.	for example, create file style.css and add style class
+4.	npm install --save-dev file-loader (file-loader – для обработки изображений) 
+5.	add image config 
+6.	add fonts config
+7.	npm install --save-dev csv-loader xml-loader
